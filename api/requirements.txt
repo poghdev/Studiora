@@ -1,0 +1,8 @@
+fastapi
+motor
+google-genai
+pydantic
+dotenv
+weasyprint
+uvicorn
+pymongo
